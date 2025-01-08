@@ -11,7 +11,7 @@
 ### *PARTE 3 – BACKUP E RECOVERY*
 <p> Objetivo: Executar o backup do banco de dados e-commerce. </p>
 <ul> 
-  <li> Utilize o mysqdump para realizar o backup e recovery do banco de dados e-commerce; </li>
+  <li> Utilize o mysqldump para realizar o backup e recovery do banco de dados e-commerce; </li>
   <li> Realize o backup de diferentes bancos de dados e insira recursos como: procedures, eventos e outros; </li>
   <li> Adicione o arquivo de backup ao github juntamente com o script. </li>
 </ul>
